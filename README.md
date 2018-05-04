@@ -1,6 +1,3 @@
-## Demo
-
-[node 爬虫实例，前端 react 渲染](https://github.com/simplefeel/react-node-news)
 
 ## node.js 系列教程
 
